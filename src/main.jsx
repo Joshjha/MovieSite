@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client'; // ✅'react-dom/client' is used instead of just 'react-dom'
+import ReactDOM from 'react-dom/client'; //'react-dom/client' is used instead of just 'react-dom'
 
 import App from './App';
 
